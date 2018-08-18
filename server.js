@@ -1,5 +1,4 @@
 var express = require('express');
-var nodeExcel = require('excel-export');
 var path = require('path');
 var axios = require('axios');
 var app = express();
